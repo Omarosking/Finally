@@ -6,7 +6,9 @@ Test automation framework for the Finally applications.
 Install the following dependencies in your local machine
 
 Python 3 (https://www.python.org/)
+
 Pipenv (https://pypi.org/project/pipenv/)
+
 Chromedriver (https://chromedriver.chromium.org/)
 
 
